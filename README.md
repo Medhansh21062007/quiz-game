@@ -31,6 +31,3 @@ Run:
 - What is the capital of India?
 - How many days are there in a week?
 - Which planet is known as the Red Planet?
-
-## Author
-Medhansh Jain
